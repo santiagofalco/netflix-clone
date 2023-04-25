@@ -16,8 +16,7 @@ const Input: FC<InputProps> = ({
     value,
     label,
     type
-}
-) => {
+}) => {
     return (
         <div className="relative">
             <input
